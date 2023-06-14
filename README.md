@@ -17,4 +17,4 @@ Todas as referências, material auxiliar e licença desse trabalho encontram-se 
 
 ## Compilação
 
-O projeto foi compilado no [overleaf](https://overleaf.com), utilizando o compilador XeLaTeX ano 2022.
+O projeto foi compilado no [overleaf](https://overleaf.com), utilizando o compilador `pdflatex` versão TeX de 2022.
